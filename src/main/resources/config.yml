@@ -1,0 +1,6 @@
+# SkyChat configuration
+# There's only one config option here, for the chat format
+
+# {player} will be replaced with the player's name.
+# {message} will be replaced with the player's message.
+format: "<{player}> {message}"
